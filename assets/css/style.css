@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+  body {
+    font-size: 4vw;
+  }
+  .alignTextInList {
+    text-align: center;
+  }
+}
+
+body {
+  background-color: #45425A;
+}
+
+.imgProfil {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: 0.5rem;
+  border: solid 4px #6C757D;
+}
+
+.bgNav {
+  background-color: #45425A;
+  color: #A99F96;
+}
+
+.bgContent {
+  background-color: #A99F96;
+}
