@@ -23,7 +23,7 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-  color: #F95138;
+  color: #F95138; /* OGRE ODOR */
 }
 
 .imgProfil {
@@ -32,16 +32,16 @@ a.nav-link:hover {
   height: 10vw;
   position: relative;
   top: 0.5rem;
-  border: solid 4px #69718D;
+  border: solid 4px #69718D; /* SLATE GRAY */
 }
 
 .bgNav {
   background-color: #262C40;
-  color: #69718D;
+  color: #69718D; /* YANKEES BLUE */
 }
 
 .bgContent {
-  background-color: #D3D5D4;
+  background-color: #D3D5D4; /* LIGHT GRAY */
 }
 
 .hNav, p.hNav + div {
