@@ -9,12 +9,21 @@
     height: 50vw;
     position: relative;
     top: 0.5rem;
-    border: solid 4px #6C757D;
+    border: solid 4px #69718D;
   }
 }
 
 body {
   background-color: #45425A;
+  height: 100vh;
+}
+
+a.nav-link {
+  color: white;
+}
+
+a.nav-link:hover {
+  color: #F95138;
 }
 
 .imgProfil {
@@ -23,18 +32,23 @@ body {
   height: 10vw;
   position: relative;
   top: 0.5rem;
-  border: solid 4px #6C757D;
+  border: solid 4px #69718D;
 }
 
 .bgNav {
-  background-color: #45425A;
-  color: #A99F96;
+  background-color: #262C40;
+  color: #69718D;
 }
 
 .bgContent {
-  background-color: #A99F96;
+  background-color: #D3D5D4;
 }
 
 .hNav, p.hNav + div {
   height: 8px;
+}
+
+.mx-6 {
+  margin-left: 5vw;
+  margin-right: 5vw;
 }
