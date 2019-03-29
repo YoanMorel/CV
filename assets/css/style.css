@@ -14,7 +14,7 @@
 }
 
 body {
-  background-color: #45425A;
+  background-color: #262C40;
   height: 100vh;
 }
 
@@ -42,6 +42,12 @@ a.nav-link:hover {
 
 .bgContent {
   background-color: #D3D5D4; /* LIGHT GRAY */
+}
+
+.bgHead {
+  background-color: #AAC0AF; /* CAMBRIDGE LIGHT */
+  border: solid 2px #9D8CA1; /* SPANISH GRAY */
+  border-radius: 50%;
 }
 
 .hNav, p.hNav + div {
